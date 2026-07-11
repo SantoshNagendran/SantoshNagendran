@@ -49,9 +49,9 @@ A web-based platform built for TNGPTC Madurai that lets students register for co
 
 ## Achievements
 
--  **2st Place** — CyberForge Hackathon 2026 *(InGage Cyber Security Essentials, Naan Mudhalvan — South Zone, Tamil Nadu)*
+-  **1st Runner Up** — CyberForge Hackathon 2026 *(InGage Cyber Security Essentials, Naan Mudhalvan — South Zone, Tamil Nadu)*
 -  **NSS Volunteer**
--  **Anthropic Claude 101** Certified
+-  **Anthropic Claude 101 & Claude Code** Certified
 
 ---
 
